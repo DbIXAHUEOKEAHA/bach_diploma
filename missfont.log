@@ -1,2 +1,7 @@
-mktextfm larm0900
-mktextfm labx0900
+mktextfm lacc1440
+mktextfm lati1440
+mktextfm labx2986
+mktextfm larm3583
+mktextfm labx3583
+mktextfm lati1728
+mktextfm labx0800
